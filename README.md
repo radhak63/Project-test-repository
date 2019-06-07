@@ -12,7 +12,6 @@ The datasets that we use for this project was obtained from GovLab through Kaggl
 
 By using the interactive dashboards, we want to provide the users the facility to explore the information about 500 US companies by selecting the company categories that uses public data from selected government agencies.
 
-<iframe src="http://www.opendata500.com/chart/" width="960" height="860" marginwidth="0" marginheight="50" scrolling="no" frameborder="0"></iframe>
 
 ### Track that we have decided on:
 
@@ -23,15 +22,15 @@ A dashboard page with mutliple charts that all update from some controls
 
 ## Screenshot of "inspiring" visualization
 
-![](/images/dashboard inspiration 1.png)
+![](/images/dashboard_inspiration1.png)
 
-![](/images/dashboard inspiration 2.png)
+![](/images/dashboard_inspiration2.png)
 
-![](/images/dashboard inspiration 3.png)
+![](/images/dashboard_inspiration3.png)
 
 ### A sketch of the final design
 
-![](/images/A sketch of the final design - US Companies exploration.png)
+![](/images/A_sketch_of_the_final_design.png)
 
 
 ### A link to the primary GitHub Repo that will be storing the work
@@ -39,4 +38,4 @@ A dashboard page with mutliple charts that all update from some controls
 
 ## Project Plan
 
-![](/images/Project plan.png)
+![](/images/Project_plan.png)
