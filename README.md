@@ -23,7 +23,7 @@ A dashboard page with mutliple charts that all update from some controls
 
 ## Screenshot of "inspiring" visualization
 
-![(/images/dashboard inspiration 1.png)]
+![Dashboard Inspiration 1](https://github.com/radhak63/Project-test-repository/images/dashboard inspiration 1.png)
 
 ![](/images/dashboard inspiration 2.png)
 
