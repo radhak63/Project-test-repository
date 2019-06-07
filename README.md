@@ -19,6 +19,15 @@ A dashboard page with mutliple charts that all update from some controls
 
 ## A Link to the dataset
 
+The following datasets 
+
+    us_companies.csv
+    us_agencies.csv
+
+can be found in the Github Repository 
+
+https://github.com/brownvarghese/us_company_explorer_app.git
+
 
 ## Screenshot of "inspiring" visualization
 
@@ -35,6 +44,7 @@ A dashboard page with mutliple charts that all update from some controls
 
 ### A link to the primary GitHub Repo that will be storing the work
 
+[](https://github.com/brownvarghese/us_company_explorer_app.git "GitHub Repo Info")
 
 ## Project Plan
 
