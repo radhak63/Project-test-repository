@@ -31,11 +31,11 @@ https://github.com/brownvarghese/us_company_explorer_app.git
 
 ## Screenshot of "inspiring" visualization
 
-![](/images/dashboard_inspiration1.png)
+![Dashboard Inspiration - 1](/images/dashboard_inspiration1.png)
 
-![](/images/dashboard_inspiration2.png)
+![Dashboard Inspiration - 2](/images/dashboard_inspiration2.png)
 
-![](/images/dashboard_inspiration3.png)
+![Dashboard Inspiration - 3](/images/dashboard_inspiration3.png)
 
 ### A sketch of the final design
 
@@ -44,7 +44,7 @@ https://github.com/brownvarghese/us_company_explorer_app.git
 
 ### A link to the primary GitHub Repo that will be storing the work
 
-[](https://github.com/brownvarghese/us_company_explorer_app.git "GitHub Repo Info")
+    https://github.com/brownvarghese/us_company_explorer_app.git
 
 ## Project Plan
 
