@@ -24,16 +24,18 @@ The following datasets
     us_companies.csv
     us_agencies.csv
 
-can be found in the Github Repository 
+can be found in the following Github Repository 
 
 https://github.com/brownvarghese/us_company_explorer_app.git
 
 
-## Screenshot of "inspiring" visualization
+## Screenshots of "inspiring" visualization
 
 ![Dashboard Inspiration - 1](/images/dashboard_inspiration1.png)
 
+
 ![Dashboard Inspiration - 2](/images/dashboard_inspiration2.png)
+
 
 ![Dashboard Inspiration - 3](/images/dashboard_inspiration3.png)
 
